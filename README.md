@@ -2,6 +2,13 @@
 
 ###
 
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Gallo41&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Gallo41/Gallo41/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img data-importer="image" align="right" height="158" src="https://media.tenor.com/6QB84-KtIMYAAAAM/ceedee-lamb-ceedee-lamb-rakai.gif"  />
 
 ###
@@ -38,6 +45,12 @@
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Gallo41/Gallo41/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
