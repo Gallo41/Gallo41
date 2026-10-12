@@ -37,9 +37,6 @@
   <a href="https://open.spotify.com/user/v33krl9qgvhzn3avzg5dsu9q4?si=e5b351dbd3d34d88" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
   </a>
-  <a href="+55 19 99995-8516" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
 </div>
 
 ###
