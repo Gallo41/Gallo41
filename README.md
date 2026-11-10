@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="left">Olá 👋! Meu nome é Gabriel Gallo e sou estudante de Ciência da Computação na EEP/FUMEP de Piracicaba, SP.<br><br>- 🚀 Construindo aplicações web e explorando conceitos de Machine Learning e automação.<br>- 🎵 A música é o meu principal combustível para manter o foco na hora de programar.<br>- ⚽ Quando não estou codando, provavelmente estou vendo o Palmeiras, assistindo futebol americano ou acompanhando MMA.</h3>
+<h3 data-importer="text" align="left">Eae! Meu nome é Gabriel Gallo e sou estudante de Ciência da Computação na EEP/FUMEP de Piracicaba, SP.<br><br>- Construindo aplicações web e explorando conceitos de Machine Learning e automação.<br>- A música é o meu principal combustível para manter o foco na hora de programar.<br>- ⚽ Quando não estou codando, provavelmente estou vendo o Palmeiras, assistindo futebol americano ou acompanhando MMA.</h3>
 
 ###
 
